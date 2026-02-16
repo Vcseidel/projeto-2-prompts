@@ -19,12 +19,12 @@ Receber as informações do Agent 1 e gerar um plano completo de estudos com:
 ## 📥 DADOS QUE VOCÊ RECEBE
 
 O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+- CARREIRA_ESCOLHIDA: AI Product Designer (UX/UI focado em IA)
+- HORAS_SEMANA: 18 horas por semana
+- EXPERIENCIA: 6 meses (Iniciante com vivência prática)
+- OBJETIVO: Crescimento na função atual
+- PREFERENCIA: Pessoas (Interação e resolução de problemas)
+- INTERESSES: UX, IA e formação na UnB (Contexto Brasília/GovTech)
 
 
 ## 🎬 INICIAR CONVERSA
